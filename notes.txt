@@ -1,0 +1,2 @@
+added stb library for using images as textures
+added glm (openGL mathematics) library for matrix mathematics
